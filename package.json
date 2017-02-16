@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_express_cookie_sess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "vignesh",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.11.0",
+    "body-parser": "1.14.1",
+    "express": "4.13.3",
+    "mysql": "2.9.0",
+    "socket.io": "^1.7.2",
+    "ejs": "^2.5.5"
+  }
+}
